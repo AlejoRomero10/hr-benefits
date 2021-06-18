@@ -2,11 +2,16 @@
     pointer-events: none !important;
 }
 
-li.b-imagegrid__item.js-b-imagegrid__item {
+li.b-imagegrid__item.js-b-imagegrid__item, a.b-imagegrid__link.js-b-imagegrid__link {
+ 
     pointer-events: none !important;
 }
 
 .a-p, .page-content section, .co-editor, .cm-setting-typostyle__label--body, .cm-setting-typostyle__preview--body{
         pointer-events: none !important;
 
+}
+
+body, body.mod.mod-document.code-enabled {
+    background: red !important;
 }
