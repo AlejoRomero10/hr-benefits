@@ -1,3 +1,7 @@
 .b-imagegrid__image-wrap.js-b-imagegrid__image-wrap.js-co-viewer__open{
     pointer-events: none !important;
 }
+
+li.b-imagegrid__item.js-b-imagegrid__item {
+    pointer-events: none !important;
+}
