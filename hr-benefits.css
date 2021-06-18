@@ -5,3 +5,8 @@
 li.b-imagegrid__item.js-b-imagegrid__item {
     pointer-events: none !important;
 }
+
+.a-p, .page-content section, .co-editor, .cm-setting-typostyle__label--body, .cm-setting-typostyle__preview--body{
+        pointer-events: none !important;
+
+}
